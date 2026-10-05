@@ -1,0 +1,11 @@
+allowed_domains:
+  - chemistry.mit.edu
+root_urls:
+  - https://chemistry.mit.edu/facilities-and-centers/department-of-chemistry-instrumentation-facility-dcif/
+follow_html_links: false
+fetch_linked_files: true
+linked_file_extensions:
+  - .pdf
+max_pages: 120
+request_timeout_seconds: 20
+user_agent: dcif-assistant/0.1 (+https://chemistry.mit.edu/facilities-and-centers/department-of-chemistry-instrumentation-facility-dcif/)

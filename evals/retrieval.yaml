@@ -1,0 +1,9 @@
+queries:
+  - id: nmr_instruments
+    question: What NMR instruments are available?
+    expected_terms:
+      - NMR
+  - id: training
+    question: How do I get trained to use an instrument?
+    expected_terms:
+      - training
